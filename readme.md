@@ -1,5 +1,7 @@
 # Form Submission with File Upload and Email Sending
 
+<img width="953" alt="oklur out" src="https://github.com/rasi-kp/okulr-test-formsubmission/assets/107319917/60271573-7209-49b5-96f3-f8fbe4895e08">
+
 ## Dependencies
 
 - Frontend: npm, React, axios
